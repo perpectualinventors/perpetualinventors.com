@@ -34,7 +34,7 @@ class Build : NukeBuild
             }
             Console.WriteLine(OutputDirectory.ToString());
             var client = new NetlifyClient(netlifyToken);
-            client.UpdateSite($"bipinpaul.netlify.com", OutputDirectory.ToString()).SendAsync().Wait();
+            client.UpdateSite($"perpetualinventors.netlify.com", OutputDirectory.ToString()).SendAsync().Wait();
         });
 
 }

@@ -1,4 +1,4 @@
-Bipin Paul's Blog
+perpetualinventors.com
 ========
 
-The code for the [bipinpaul.com.np](http://www.bipinpaul.com.np) website.
+The code for the [perpetualinventors.com](http://www.perpetualinventors.com) website.
